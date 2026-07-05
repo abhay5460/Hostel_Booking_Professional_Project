@@ -1,4 +1,4 @@
-# Hostel Booking Management System
+# Hostel Booking Professional Project
 
 A multi-admin hostel booking web application developed using **PHP**, **MySQL**, **HTML**, **CSS**, and **JavaScript**. The platform allows a **Super Admin** to manage multiple hostel administrators, while each administrator independently manages their own hostels, rooms, bookings, and customers.
 
